@@ -1,1 +1,3 @@
-/NoHistoryTracker.zip
+/Releases/*
+*.log
+.env
