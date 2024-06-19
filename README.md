@@ -6,12 +6,11 @@ No History Tracker is a Firefox extension made to disable the tracking of URLs i
 
 ## Features
 - Automatically starts when Firefox opens.
-- Ability to toggle URL tracking on and off.
-- Console logs for debugging and tracking extension state changes.
+- Ability to toggle tracking on and off.
 
 ## To Do
 - Create Icons
-- Add ability to toggle on and off
+- Add ability to toggle on and off with icons
 - Add Whitelist what to track
 
 ## Contributing
